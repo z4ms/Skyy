@@ -24,6 +24,11 @@ div {
   transform-style: preserve-3d;
 }
 
+article#ff-container {
+  width: 300px;
+  height: 200px;
+}
+
 #timer {
   font-size: 20px;
   font-family: 'Georgia', serif;
