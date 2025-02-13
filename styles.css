@@ -58,8 +58,8 @@ article#ff-container {
   justify-content: center;
   background-color: #6ab6ce98; /* Pastikan latar belakang terlihat */
   color: #5baab8; /* Pastikan teks terlihat */
-  padding: 30px;
-  border-radius: 15px;
+  padding: 10px;
+  border-radius: 30px;
   border: 1px solid #4e889998; /* Garis border untuk memastikan elemen terlihat */
 }
 
